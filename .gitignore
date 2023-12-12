@@ -1,0 +1,14 @@
+# Maven
+target
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+
+# IDE
+.idea
+*.iml
+.project
+.classpath
+.settings
+
+# OS
+.DS_Store
